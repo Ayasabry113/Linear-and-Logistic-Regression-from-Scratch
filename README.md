@@ -20,14 +20,6 @@ This repository contains two supervised-learning exercises implemented with NumP
 - Comparison with Scikit-learn Logistic Regression
 - Accuracy, classification report, confusion matrix, and loss curves
 
-## Project Structure
-```text
-Linear-and-Logistic-Regression-from-Scratch/
-├── Linear_and_Logistic_Regression.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## Installation
 ```bash
 pip install -r requirements.txt
